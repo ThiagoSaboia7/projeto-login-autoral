@@ -14,8 +14,8 @@ Este projeto consiste no desenvolvimento de uma Tela de Login minimalista, moder
 
 <h1 align="center"> Preview da Aplicação 📸 </h1>
 <p align="center">
-<img src="preview.png" alt="Preview da Tela de Login" width="600">
-</p><br></br>
+<img width="600" height="943" alt="preview" src="https://github.com/user-attachments/assets/7ed8897d-533b-4470-8d6b-ae4bb2a752f7"</p><br></br>
+
 
 <h2>✨ Funcionalidades em Destaque</h2>
 
